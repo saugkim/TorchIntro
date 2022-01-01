@@ -1,6 +1,12 @@
-/DataInput/vision/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
+/DataInput/vision/
 /DataInput/.ipynb_checkpoints/
 /Vision/.ipynb_checkpoints/
 /Audio/.ipynb_checkpoints/
+/Colab/.ipynb_checkpoints/
+
 /data/audio/save_example_default.wav
+
+
