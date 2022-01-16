@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">torch</string>
+    <string name="image_name">image.jpg</string>
+    <string name="model_name">mobilenet_scripted.pt</string>
+</resources>
