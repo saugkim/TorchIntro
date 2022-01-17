@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobilenet</string>
+    <string name="image_name">image.jpg</string>
+    <string name="model_name">mobilenet_scripted.pt</string>
+    <string name="button_gallery">SELECT PHOTO</string>
+    <string name="class_name">RESULT</string>
+    <string name="image_content">selected image</string>
+    <string name="button_run">RUN MODEL</string>
+</resources>
